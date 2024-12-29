@@ -48,7 +48,7 @@ Run the script, and the tool will prompt you for the following inputs:
 - **Start Date**: The start date for fetching historical data in the format `YYYY-MM-DD`.
 - **End Date**: The end date for fetching historical data in the format `YYYY-MM-DD`.
 
-Example input prompt:
+Example input:
 
 ```bash
 Enter your commodity exposure (in USD): 1000000
